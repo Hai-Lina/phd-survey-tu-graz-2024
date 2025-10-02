@@ -4,6 +4,8 @@ Survey among PhD students of TU Graz led by the student union (PhD Union) in Oct
 ### Repository set up
 The repository mainly comprises four parts:
 - `PhD-survey-final-design.pdf` contains the final survey set up (questions, answer alternatives, order of questions).
+- `PhD-survey-2024-final-report-021025.pdf` contains the final survey report.
+- `PhD-survey-one-pager-021025.pdf` contains a high level summary of the most important findings of the survey.
 - Jupyter notebooks `0_` to `6_` contain code to analyze the six modules of the survey.
 - Folder `figures` stores the output of these jupyter notebooks.
 - File `mock-data.csv` is a tabular file with randomly generated data to run the code. **Important note**: This data is not the original data and does not reproduce the results. See also our data protection regulations.
